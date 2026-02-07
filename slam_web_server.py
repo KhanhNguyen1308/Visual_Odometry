@@ -9,6 +9,7 @@ This system provides:
 - Autonomous navigation capability
 - Live camera feed
 - 2D occupancy grid map
+
 """
 
 import cv2
