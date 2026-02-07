@@ -1,7 +1,6 @@
 #!/bin/bash
 # Installation script for Jetson Nano SLAM Robot
 # Run with: bash install.sh
-
 set -e
 
 echo "======================================================================="

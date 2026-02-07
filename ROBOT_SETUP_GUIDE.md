@@ -2,7 +2,6 @@
 ## Complete Web-Based Mapping & Navigation System
 
 Transform your Jetson Nano into an autonomous mapping robot with real-time web dashboard!
-
 ---
 
 ## 🎯 Features

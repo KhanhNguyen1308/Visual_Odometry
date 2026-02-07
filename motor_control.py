@@ -7,7 +7,6 @@ Supports common motor driver boards:
 - Adafruit Motor HAT
 - GPIO-based motor control
 """
-
 import time
 try:
     import Jetson.GPIO as GPIO
