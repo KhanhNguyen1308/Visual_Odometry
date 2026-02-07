@@ -1,0 +1,8 @@
+opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0
+numpy>=1.19.0
+flask>=2.0.0
+flask-socketio>=5.0.0
+eventlet>=0.30.0
+Jetson.GPIO>=2.0.0
+python-socketio>=5.0.0
